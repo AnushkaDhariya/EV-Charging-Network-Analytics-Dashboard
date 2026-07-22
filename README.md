@@ -13,8 +13,8 @@ An end-to-end interactive **Power BI Executive Dashboard** designed to analyze e
 ---
 
 ## 📸 Dashboard Preview
+![EV Charging Network Analytics Dashboard](EV-Charging-Netwok-Analytics-Dashboard.png)
 
-![EV Charging Network Analytics Dashboard] (EV-Charging-Netwok-Analytics-Dashboard.png)
 
 ---
 
